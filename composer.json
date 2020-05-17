@@ -1,6 +1,6 @@
 {
-  "name": "fatkulnurk/cookies",
-  "description": "PHP library for handling sessions",
+  "name": "fatkulnurk/container",
+  "description": "SIMPLE PHP CONTAINER",
   "type": "library",
   "authors": [
     {
@@ -11,7 +11,7 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "Fatkulnurk\\Cookies\\": "src/"
+      "Fatkulnurk\\Container\\": "src/"
     }
   },
   "require": {
