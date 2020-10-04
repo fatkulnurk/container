@@ -69,6 +69,6 @@ class Container implements ContainerInterface
     }
 }
 
-Container::getInstance()->get('example');
-Container::getInstance()->has('example');
-Container::getInstance()->delete('example');
+// Container::getInstance()->get('example');
+// Container::getInstance()->has('example');
+// Container::getInstance()->delete('example');
